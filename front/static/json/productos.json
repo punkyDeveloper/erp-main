@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop Dell XPS 13",
+        "price": 999.99,
+        "quantity": 10,
+        "image": "https://example.com/images/laptop_dell_xps13.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Smartphone Samsung Galaxy S21",
+        "price": 799.99,
+        "quantity": 15,
+        "image": "https://example.com/images/samsung_galaxy_s21.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Smartwatch Apple Watch Series 7",
+        "price": 399.99,
+        "quantity": 20,
+        "image": "https://example.com/images/apple_watch_series7.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Tablet iPad Pro 11",
+        "price": 849.99,
+        "quantity": 8,
+        "image": "https://example.com/images/ipad_pro_11.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Cámara Canon EOS R5",
+        "price": 3899.99,
+        "quantity": 5,
+        "image": "https://example.com/images/canon_eos_r5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Auriculares Sony WH-1000XM4",
+        "price": 349.99,
+        "quantity": 25,
+        "image": "https://example.com/images/sony_wh_1000xm4.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Teclado mecánico Razer BlackWidow",
+        "price": 129.99,
+        "quantity": 30,
+        "image": "https://example.com/images/razer_blackwidow.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Monitor LG UltraWide 34''",
+        "price": 599.99,
+        "quantity": 12,
+        "image": "https://example.com/images/lg_ultrawide_34.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Mouse Logitech MX Master 3",
+        "price": 99.99,
+        "quantity": 18,
+        "image": "https://example.com/images/logitech_mx_master_3.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Consola PlayStation 5",
+        "price": 499.99,
+        "quantity": 7,
+        "image": "https://example.com/images/ps5.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Silla gaming Secretlab Titan",
+        "price": 459.99,
+        "quantity": 10,
+        "image": "https://example.com/images/secretlab_titan.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Impresora HP LaserJet Pro",
+        "price": 229.99,
+        "quantity": 15,
+        "image": "https://example.com/images/hp_laserjet_pro.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Router WiFi TP-Link Archer AX50",
+        "price": 149.99,
+        "quantity": 20,
+        "image": "https://example.com/images/tplink_archer_ax50.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Disco Duro Externo WD My Passport 2TB",
+        "price": 89.99,
+        "quantity": 25,
+        "image": "https://example.com/images/wd_my_passport_2tb.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Cámara de seguridad Ring Video Doorbell 3",
+        "price": 199.99,
+        "quantity": 10,
+        "image": "https://example.com/images/ring_video_doorbell_3.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Laptop Lenovo ThinkPad X1 Carbon",
+        "price": 1299.99,
+        "quantity": 7,
+        "image": "https://example.com/images/lenovo_thinkpad_x1_carbon.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Micrófono Blue Yeti",
+        "price": 129.99,
+        "quantity": 20,
+        "image": "https://example.com/images/blue_yeti.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Parlante Bluetooth JBL Charge 4",
+        "price": 149.99,
+        "quantity": 15,
+        "image": "https://example.com/images/jbl_charge_4.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Cargador inalámbrico Anker PowerWave",
+        "price": 29.99,
+        "quantity": 50,
+        "image": "https://example.com/images/anker_powerwave.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Monitor ASUS ROG Swift 27''",
+        "price": 799.99,
+        "quantity": 12,
+        "image": "https://example.com/images/asus_rog_swift_27.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Lente Nikon AF-S NIKKOR 50mm",
+        "price": 219.99,
+        "quantity": 14,
+        "image": "https://example.com/images/nikon_afs_nikkor_50mm.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Disco SSD Samsung 970 EVO 1TB",
+        "price": 139.99,
+        "quantity": 30,
+        "image": "https://example.com/images/samsung_970_evo_1tb.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Smart TV Samsung QLED 55''",
+        "price": 999.99,
+        "quantity": 10,
+        "image": "https://example.com/images/samsung_qled_55.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Audífonos Beats Studio 3",
+        "price": 349.99,
+        "quantity": 25,
+        "image": "https://example.com/images/beats_studio_3.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Proyector Epson Home Cinema",
+        "price": 899.99,
+        "quantity": 8,
+        "image": "https://example.com/images/epson_home_cinema.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Disco Duro Externo Seagate 4TB",
+        "price": 109.99,
+        "quantity": 20,
+        "image": "https://example.com/images/seagate_4tb.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Mouse Gamer Razer DeathAdder Elite",
+        "price": 69.99,
+        "quantity": 40,
+        "image": "https://example.com/images/razer_deathadder_elite.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Tablet Samsung Galaxy Tab S7",
+        "price": 649.99,
+        "quantity": 12,
+        "image": "https://example.com/images/samsung_galaxy_tab_s7.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Cámara GoPro HERO9",
+        "price": 399.99,
+        "quantity": 15,
+        "image": "https://example.com/images/gopro_hero9.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Consola Xbox Series X",
+        "price": 499.99,
+        "quantity": 7,
+        "image": "https://example.com/images/xbox_series_x.jpg"
+    }
+]
